@@ -1,12 +1,10 @@
 # Inductionprogram
 Btech cse
-# InductionProgram -
-# B.Tech CSE
 ## Day 1
 #### 8:30 to 9:30 
-##### The day began with Path and Kirtan at the college Gurdwara Sahib, blessing the new beginnings of our future tech leaders.
+##### The day began with Path and Kirtan at the college Gurdwara Sahib, blessing the new beginnings of our future tech leaders.I am very exited to began my new college journey and explore the college campus our collge campus is very beautiful .The campus has lush green 
 #### 9:30 to 10:30 
-##### Tea and Bread Lungar
+##### then our college serve langar of bread and tea . The langar is very delicous 
 #### 10:30 to 4:00
 ##### Students were introduced to the college's legacy through a college Student Induction Program 2025
 
@@ -32,19 +30,21 @@ Btech cse
 
 ## Day 2
 #### 9:30 to 10:30 
-##### English Proficiency Test
+##### the college conduct english proficiency test.The test level is senior secondary level.The test include reading comperhension,writting skills and some grammer question 
 
 #### 10:30 to 11:30 
-##### Maths Proficiency Test
+##### then college conduct math proficiency test . accordimg to me the test level is difficult.it inludes some ticky question and some of them i try to solve and i do it 
 
 #### 11:30 to 1:00 
-##### Break
+##### In the break i met my new class mates and interact with them.then we explore are campus 
 
 #### 1:00 to 2:00 
-##### Expert Lecture by Dr. Arashdeep Singh tell us about "Food A Pivotal Role in Student's Overall Wellness"
+##### Expert Lecture by Dr. Arashdeep Singh tell us about "Food A Pivotal Role in Student's Overall Wellness". he said your degree duration is the 4years so you will maintain your diet with healthy diet
 
 #### 2:00 to 3:00 
 ##### Session by Causmic Club and Launch of Induction Activities 
 
 #### 3:00 to 4:00 
 ##### Seniors tell us about github
+##### seniors also tell about how to create account on the git hub
+##### they also tell about to how to create repo on the github .they said create repo on your induction program
